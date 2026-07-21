@@ -6,6 +6,15 @@ It serves as a valuable resource for developing **predictive models** aimed at i
 
 ---
 
+## Published Paper
+
+📄 **Maternal Health Risk Assessment with Interpretable Machine Learning: Evidence from Bangladesh**  
+Published in **IEEE**.
+
+🔗 https://ieeexplore.ieee.org/document/11503932
+
+---
+
 ## 📊 Dataset Overview
 
 The dataset is well-suited for research in:
